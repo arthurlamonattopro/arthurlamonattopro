@@ -32,7 +32,7 @@ GML for games(gamemaker studio language) for games also
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="35" height="35" />
 </p>
 
-## <div>📈 Minhas estatísticas no GitHub</div>
+## <div align="center"> Minhas estatísticas no GitHub</div>
 
 <!-- GitHub Stats -->
 <p align="center">
