@@ -1,3 +1,6 @@
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1e1e1e&height=200&section=header&text=Explorando%20o%20universo%20Rust%20🦀&fontSize=30&fontColor=ffffff" />
+
 # <div align="center">Hi 👋, I'm Lamo</div>
 
 ## <div align="center">Projetos</div>
@@ -24,4 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="35" height="35" />
+</p>
+### 📈 Minhas estatísticas no GitHub
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurlamonattopro&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlamonattopro&layout=compact&theme=radical&langs_count=5"/>
 </p>
