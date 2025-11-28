@@ -28,7 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="35" height="35" />
 </p>
-### 📈 Minhas estatísticas no GitHub
+
+## <div>📈 Minhas estatísticas no GitHub</div>
 
 <!-- GitHub Stats -->
 <p align="center">
