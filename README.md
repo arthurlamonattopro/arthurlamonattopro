@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lamo</h1>
-<h2 align="center"> Tecnologias </h2>
+# <div align="center">Hi 👋, I'm Lamo</div>
+
+## Projetos
+
+## <div align="center">Tecnologias</div>
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" />
