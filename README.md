@@ -3,6 +3,9 @@
 
 # <div align="center">Hi 👋, I'm Lamo</div>
 
+i`m a indie programmer and Gamedev, i use python, lua, js, html, css, and rust
+GML for games(gamemaker studio language) for games also
+
 ## <div align="center">Projetos</div>
 
 - [LCoder](https://github.com/arthurlamonattopro/LCoder) — **IDE para linguagens interpretadas**  
