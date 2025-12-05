@@ -37,8 +37,4 @@ https://arthurlamonattopro.github.io/arthurlamonattopro/
 
 ## <div align="center"> Minhas estatísticas no GitHub</div>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurlamonattopro&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlamonattopro&layout=compact&theme=radical&langs_count=5"/>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
