@@ -14,15 +14,36 @@
 
 ---
 
-## <div align="center">🚀 Projetos principais</div>
+## 🛠️ Tech Setup
 
-<p align="center">
-  <a href="https://github.com/arthurlamonattopro/LamoImage"><strong>.Lamo</strong></a> — formato de imagem próprio  
-  <a href="https://github.com/arthurlamonattopro/LCoder"><strong>LCoder</strong></a> — IDE para linguagens interpretadas  
-  <a href="https://github.com/arthurlamonattopro/ProgammerPlayGround"><strong>ProgrammerPlayGround</strong></a> — laboratório de testes  
-  <a href="https://github.com/arthurlamonattopro/Rust"><strong>Rust</strong></a> — meu repositório de estudos  
-  <a href="https://github.com/arthurlamonattopro/LamoEditor"><strong>LamoEditor</strong></a> — editor de vídeo simples
-</p>
+<table>
+  <tr>
+    <th>💻 Hardware</th>
+    <th>🧰 Inventário</th>
+    <th>📡 Social</th>
+  </tr>
+
+  <tr>
+    <!-- Hardware -->
+    <td>
+      i5-8400 CPU @ 2.808GHz <br>
+      NVIDIA GeForce GTX 1660 SUPER <br>
+      1024B NVMe + 120GB SATA <br>
+      16GB DDR4 2133MHz (Dual-Channel)
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/1083890580439973948">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discord/discord-original.svg" width="45"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
