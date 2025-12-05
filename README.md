@@ -1,12 +1,12 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8fce00&text=Lamo&fontColor=000000&animation=fadeIn&desc=indie%20programer%20and%20gamedev"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8fce00&text=Lamo&fontColor=000000&animation=fadeIn&desc=indie%20programer%20and%20gamedev"/>
 
 # <div align="center">Hi 👋, I'm Lamo</div>
 
 <div align="center">i`m a indie programmer and Gamedev, i use python, lua, js, html, css, and rust
 GML for games(gamemaker studio language) for games also</div>
 
-https://arthurlamonattopro.github.io/arthurlamonattopro/
+<div align="center">https://arthurlamonattopro.github.io/arthurlamonattopro/</div>
 
 ## <div align="center">Projetos</div>
 - <div align="center">[.Lamo](https://github.com/arthurlamonattopro/LamoImage) — **Arquivo de imagem propio**  </div>
