@@ -14,9 +14,9 @@
 
 ---
 
-## 🛠️ Tech Setup
+<h1 align="center">🛠️ Tech Setup</h1>
 
-<table>
+<table align="center">
   <tr>
     <th>💻 Hardware</th>
     <th>🧰 Inventário</th>
