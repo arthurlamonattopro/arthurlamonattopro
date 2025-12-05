@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8fce00&text=Lamo&fontColor=000000&animation=fadeIn&desc=Indie%20Programmer%20%26%20Gamedev"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=shark&height=300&color=8fce00&text=Lamo&textBg=false&animation=fadeIn&desc=dev"/>
 
 # <div align="center">Hi 👋, I'm Lamo</div>
 
