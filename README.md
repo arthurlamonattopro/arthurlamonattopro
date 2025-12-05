@@ -1,49 +1,50 @@
 <!-- Banner -->
 <img align="center" src="https://capsule-render.vercel.app/api?type=shark&height=300&color=8fce00&text=Lamo&textBg=false&animation=fadeIn&desc=dev"/>
 
-# <div align="center">Hi 👋, I'm Lamo</div>
+<h1 align="center">👋 Hey, eu sou o Lamo</h1>
 
-<div align="center">
-  Indie programmer & gamedev — tocando projetos na raça, do zero ao caos controlado.  
-  Trabalho com **Python, Lua, JS, HTML, CSS e Rust**, além de **GML** pra criar mundos jogáveis.
-</div>
+<p align="center">
+  Indie dev, programador teimoso que cria ferramentas, editores, formatos próprios e mundos jogáveis.  
+  Trabalho com <strong>Python, Lua, JS, HTML, CSS, Rust</strong> e <strong>GML</strong>.
+</p>
 
-<div align="center">🌐 https://arthurlamonattopro.github.io/arthurlamonattopro/</div>
+<p align="center">
+  🌐 <a href="https://arthurlamonattopro.github.io/arthurlamonattopro/">Meu site</a>
+</p>
 
 ---
 
-## <div align="center">🚀 Projetos</div>
+## <div align="center">🚀 Projetos principais</div>
 
-- <div align="center">[.Lamo](https://github.com/arthurlamonattopro/LamoImage) — **Formato de imagem próprio**</div>
-- <div align="center">[LCoder](https://github.com/arthurlamonattopro/LCoder) — **IDE para linguagens interpretadas**</div>
-- <div align="center">[ProgrammerPlayGround](https://github.com/arthurlamonattopro/ProgammerPlayGround) — **Playground de experimentos e testes**</div>
-- <div align="center">[Rust](https://github.com/arthurlamonattopro/Rust) — **Meu diário de aprendizado em Rust**</div>
-- <div align="center">[LamoEditor](https://github.com/arthurlamonattopro/LamoEditor) — **Editor de vídeo básico feito do zero**</div>
+<p align="center">
+  <a href="https://github.com/arthurlamonattopro/LamoImage"><strong>.Lamo</strong></a> — formato de imagem próprio  
+  <a href="https://github.com/arthurlamonattopro/LCoder"><strong>LCoder</strong></a> — IDE para linguagens interpretadas  
+  <a href="https://github.com/arthurlamonattopro/ProgammerPlayGround"><strong>ProgrammerPlayGround</strong></a> — laboratório de testes  
+  <a href="https://github.com/arthurlamonattopro/Rust"><strong>Rust</strong></a> — meu repositório de estudos  
+  <a href="https://github.com/arthurlamonattopro/LamoEditor"><strong>LamoEditor</strong></a> — editor de vídeo simples
+</p>
 
 ---
 
 ## <div align="center">🛠️ Tecnologias</div>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
 
-## <div align="center">📊 Minhas estatísticas no GitHub</div>
+## <div align="center">📊 Atividade</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurlamonattopro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurlamonattopro&theme=dracula" />
+</p>
