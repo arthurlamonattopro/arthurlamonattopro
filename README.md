@@ -3,21 +3,21 @@
 
 # <div align="center">Hi 👋, I'm Lamo</div>
 
-i`m a indie programmer and Gamedev, i use python, lua, js, html, css, and rust
-GML for games(gamemaker studio language) for games also
+<div align="center">i`m a indie programmer and Gamedev, i use python, lua, js, html, css, and rust
+GML for games(gamemaker studio language) for games also</div>
 
 https://arthurlamonattopro.github.io/arthurlamonattopro/
 
 ## <div align="center">Projetos</div>
-- [.Lamo](https://github.com/arthurlamonattopro/LamoImage) — **Arquivo de imagem propio**  
-- [LCoder](https://github.com/arthurlamonattopro/LCoder) — **IDE para linguagens interpretadas**  
-- [ProgrammerPlayGround](https://github.com/arthurlamonattopro/ProgammerPlayGround) — **Playground de experiências e testes**  
-- [Rust](https://github.com/arthurlamonattopro/Rust) — **Meu repositório de aprendizado de Rust**
-- [LamoEditor](https://github.com/arthurlamonattopro/LamoEditor) — **Um editor de video basico**  
+- <div align="center">[.Lamo](https://github.com/arthurlamonattopro/LamoImage) — **Arquivo de imagem propio**  </div>
+- <div align="center">[LCoder](https://github.com/arthurlamonattopro/LCoder) — **IDE para linguagens interpretadas**  </div>
+- <div align="center">[ProgrammerPlayGround](https://github.com/arthurlamonattopro/ProgammerPlayGround) — **Playground de experiências e testes**  </div>
+- <div align="center">[Rust](https://github.com/arthurlamonattopro/Rust) — **Meu repositório de aprendizado de Rust**</div>
+- <div align="center">[LamoEditor](https://github.com/arthurlamonattopro/LamoEditor) — **Um editor de video basico**  </div>
 
 ## <div align="center">Tecnologias</div>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35" height="35" />
