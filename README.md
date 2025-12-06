@@ -28,7 +28,7 @@
     <td>
       i5-8400 CPU @ 2.808GHz <br>
       NVIDIA GeForce GTX 1660 SUPER <br>
-      1024B NVMe + 120GB SATA <br>
+      1024GB NVMe + 120GB SATA <br>
       16GB DDR4 2133MHz (Dual-Channel)
     </td>
     <td align="center">
