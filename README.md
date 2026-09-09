@@ -34,8 +34,6 @@ Passionate about Minecraft Modding, Game Development and Open Source.
 | Project | Description |
 |---------|-------------|
 | 🔷 AE2-LMDB | Applied Energistics addon |
-| 🎮 Party Master | Multiplayer Party Game |
-| 📷 Gacha Capture | Screen Capture Tool |
 | 🧠 LamoLanguage | Programming Language |
 | ⚡ LamoImage | Image Format |
 
